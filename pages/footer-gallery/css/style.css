@@ -28,9 +28,9 @@
     padding: 10px 20px;
     margin: 0 10px;
     font-size: 1.5rem;
-    background-color:aqua; /* Button color */
+    background-color:aqua;
     color: white;
-    text-decoration: none; /* Remove underline */
+    text-decoration: none;
     border: none;
     cursor: pointer;
     transition: background-color 0.3s ease;
@@ -38,7 +38,7 @@
 }
 
 .button:hover {
-    background-color: black; /* Hover color */
+    background-color: black;
 }
 
 .glow {
